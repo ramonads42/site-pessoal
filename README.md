@@ -12,3 +12,4 @@ site-pessoal/
 │   └── style.css
 └── scripts/
     └── main.js
+```
